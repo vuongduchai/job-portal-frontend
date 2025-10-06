@@ -1,0 +1,20 @@
+.home-container {
+  background-color: #fff;
+}
+
+.hero {
+  min-height: 80vh;
+}
+
+.hero-text .highlight {
+  color: #ff6464;
+}
+
+.features h5 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.features p {
+  color: #666;
+}
